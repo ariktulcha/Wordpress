@@ -14,7 +14,7 @@
 	
 
 
-<center> <button onclick="myFunction()">סגירה</button></center>
+<center> <button onclick="myFunction()">Close</button></center>
 <script>
 function myFunction() {
     event.preventDefault();
